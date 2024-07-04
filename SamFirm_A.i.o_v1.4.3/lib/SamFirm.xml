@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SamFirm>
+  <Model>GT-I8150</Model>
+  <Region>AFGHANISTAN (AFG)</Region>
+  <ZipExtract>True</ZipExtract>
+  <CRCChk>True</CRCChk>
+  <ADecrupt>True</ADecrupt>
+  <AutoUpdate>True</AutoUpdate>
+  <ZipDelete>False</ZipDelete>
+  <Directory>True</Directory>
+  <RunExe>True</RunExe>
+  <CreateShortcut>True</CreateShortcut>
+  <PublicPath></PublicPath>
+  <ToolsPath></ToolsPath>
+  <FirmwarePath></FirmwarePath>
+  <DriveSign>0</DriveSign>
+  <CustUrl>https://www.smouha-academy.com/</CustUrl>
+</SamFirm>

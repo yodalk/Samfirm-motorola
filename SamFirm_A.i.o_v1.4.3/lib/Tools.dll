@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Tools  title='Software FlashTools  ' >
+    <Tools  title='APPLE'>
+  <Tools  title='ITunes'>
+    <record  title='ITunes(Windows 64Bit)' />
+    <record  title='ITunes(Windows 32Bit)' />
+	</Tools>   
+	<Tools  title='3UTools'>
+    <record  title='3UTools(Latest_Version)' />
+	</Tools>
+  </Tools>
+  <Tools  title='Samsung'>
+  <Tools  title='Odin3'>
+    <record  title='Odin3_v3.14.4' />
+    <record  title='Odin3_v3.14.1' />
+    <record  title='Odin3_v3.13.3' />
+    <record  title='Odin3_v3.13.1' />
+    <record  title='Odin3_v3.12.7' />
+    <record  title='Odin3_v3.12.5' />
+    <record  title='Odin3_v3.12.4' />
+    <record  title='Odin3_v3.12.3' />
+    <record  title='Odin3_v3.11.2' />
+    <record  title='Odin3_v3.11.1' />
+    <record  title='Odin3_v3.10.7' />
+    <record  title='Odin3_v3.10.6' />
+    <record  title='Odin3_v3.10.5' />
+    <record  title='Odin3_v3.09' />
+    <record  title='Odin3_v3.07' />
+    <record  title='Odin3_v3.06' />
+    <record  title='Odin3_v3.04' />
+    <record  title='Odin3_v1.86' />
+    <record  title='Odin3_v1.83' />
+    <record  title='Odin3_v1.82' />
+    <record  title='Odin3_v1.70' />
+	</Tools>   
+  </Tools>  
+  <Tools  title='Sony Xperia'>
+	<Tools  title='Xperia Companion'>
+    <record  title='Xperia Companion(Latest)' />
+	</Tools>  
+	<Tools  title='Xperia_FlashTool'>
+    <record  title='Sony_Mobile_Flasher_v0.9.28.0(Latest)' />
+	</Tools> 
+  </Tools>  
+  <Tools  title='MediaTek (FlashTools)'>
+    <Tools  title='SP FlashTools'>
+	<record  title='SP_Flash_Tool_v5.2104' />
+	<record  title='SP_Flash_Tool_v5.2052' />
+	<record  title='SP_Flash_Tool_v5.2044' />
+	<record  title='SP_Flash_Tool_v5.2036' />
+	<record  title='SP_Flash_Tool_v5.2032' />
+	<record  title='SP_Flash_Tool_v5.2028' />
+	<record  title='SP_Flash_Tool_v5.2020' />
+	<record  title='SP_Flash_Tool_v5.2016' />
+	<record  title='SP_Flash_Tool_v5.1952' />
+    <record  title='SP_Flash_Tool_v5.1944' />
+    <record  title='SP_Flash_Tool_v5.1936' />
+    <record  title='SP_Flash_Tool_v5.1924' />
+    <record  title='SP_Flash_Tool_v5.1920' />
+    <record  title='SP_Flash_Tool_v5.1916' />
+    <record  title='SP_Flash_Tool_v5.1912' />
+    <record  title='SP_Flash_Tool_v5.1904' />
+    <record  title='SP_Flash_Tool_v5.1844' />
+    <record  title='SP_Flash_Tool_v5.1836' />
+    <record  title='SP_Flash_Tool_v5.1828' />
+    <record  title='SP_Flash_Tool_v5.1824' />
+    <record  title='SP_Flash_Tool_v5.1820' />
+    <record  title='SP_Flash_Tool_v5.1816' />
+    <record  title='SP_Flash_Tool_v5.1812' />
+    <record  title='SP_Flash_Tool_v5.1804' />
+    <record  title='SP_Flash_Tool_v5.1752' />
+    <record  title='SP_Flash_Tool_v5.1744' />
+    <record  title='SP_Flash_Tool_v5.1736' />
+    <record  title='SP_Flash_Tool_v5.1728' />
+    <record  title='SP_Flash_Tool_v5.1724' />
+    <record  title='SP_Flash_Tool_v5.1720' />
+    <record  title='SP_Flash_Tool_v5.1716' />
+    <record  title='SP_Flash_Tool_v5.1712' />
+    <record  title='SP_Flash_Tool_v5.1708' />
+    <record  title='SP_Flash_Tool_v5.1648' />
+    <record  title='SP_Flash_Tool_v5.1644' />
+    <record  title='SP_Flash_Tool_v5.1640' />
+    <record  title='SP_Flash_Tool_v5.1636' />
+    <record  title='SP_Flash_Tool_v5.1632' />
+    <record  title='SP_Flash_Tool_v5.1628' />
+    <record  title='SP_Flash_Tool_v5.1624' />
+    <record  title='SP_Flash_Tool_v5.1620' />
+    <record  title='SP_Flash_Tool_v5.1616' />
+    <record  title='SP_Flash_Tool_v5.1612' />
+    <record  title='SP_Flash_Tool_v5.1604' />
+    <record  title='SP_Flash_Tool_v5.1552' />
+    <record  title='SP_Flash_Tool_v5.1548' />
+    <record  title='SP_Flash_Tool_v5.1532' />
+    <record  title='SP_Flash_Tool_v5.1528' />
+    <record  title='SP_Flash_Tool_v5.1524' />
+    <record  title='SP_Flash_Tool_v5.1520' />
+    <record  title='SP_Flash_Tool_v5.1516' />
+    <record  title='SP_Flash_Tool_v5.1512' />
+    <record  title='SP_Flash_Tool_v5.1504' />
+    <record  title='SP_Flash_Tool_v5.1425' />
+    <record  title='SP_Flash_Tool_v5.1436' />
+    <record  title='SP_Flash_Tool_v5.1420' />
+    <record  title='SP_Flash_Tool_v5.1416' />
+    <record  title='SP_Flash_Tool_v5.1408' />
+    <record  title='SP_Flash_Tool_v5.1352' />
+    <record  title='SP_Flash_Tool_v5.1343' />
+    <record  title='SP_Flash_Tool_v3.1344' />
+    <record  title='SP_Flash_Tool_v3.1336' />
+    <record  title='SP_Flash_Tool_v3.1332' />
+    <record  title='SP_Flash_Tool_v3.1328' />
+    <record  title='SP_Flash_Tool_v3.1326' />
+    <record  title='SP_Flash_Tool_v3.1324' />
+    <record  title='SP_Flash_Tool_v3.1316' />
+    <record  title='SP_Flash_Tool_v3.1312' />
+    <record  title='SP_Flash_Tool_v3.1308' />
+    <record  title='SP_Flash_Tool_v3.1304' />
+    <record  title='SP_Flash_Tool_v3.1252' />
+    <record  title='SP_Flash_Tool_v3.1250' />
+    <record  title='SP_Flash_Tool_v3.1248' />
+    <record  title='SP_Flash_Tool_v3.1238' />
+    <record  title='SP_Flash_Tool_v3.1224' />
+    <record  title='SP_Flash_Tool_v3.1222' />
+    <record  title='SP_Flash_Tool_v3.1216' />
+    <record  title='SP_Flash_Tool_v3.1210' />
+    <record  title='SP_Flash_Tool_v3.1206' />
+    <record  title='SP_Flash_Tool_v3.1108' />
+    <record  title='SP_Flash_Tool_v2.1140' />
+    <record  title='SP_Flash_Tool_v2.1134' />
+    <record  title='SP_Flash_Tool_v2.1133' />
+    <record  title='SP_Flash_Tool_v1.1110' />
+    <record  title='SP_Flash_Tool_v1.1052' />
+	</Tools> 
+   <Tools  title='SP_MDT_Tool'>
+   <record  title='SP_MDT_v5.1432' />
+   <record  title='SP_MDT_v5.1340' />
+   <record  title='SP_MDT_v3.1916' />
+   <record  title='SP_MDT_v3.1904' />
+   <record  title='SP_MDT_v3.1844' />
+   <record  title='SP_MDT_v3.1836' />
+   <record  title='SP_MDT_v3.1832' />
+   <record  title='SP_MDT_v3.1828' />
+   <record  title='SP_MDT_v3.1824' />
+   <record  title='SP_MDT_v3.1820' />
+   <record  title='SP_MDT_v3.1812' />
+   <record  title='SP_MDT_v3.1804' />
+   <record  title='SP_MDT_v3.1752' />
+   <record  title='SP_MDT_v3.1748' />
+   <record  title='SP_MDT_v3.1744' />
+   <record  title='SP_MDT_v3.1732' />
+   <record  title='SP_MDT_v3.1728' />
+   <record  title='SP_MDT_v3.1724' />
+   <record  title='SP_MDT_v3.1716' />
+   <record  title='SP_MDT_v3.1712' />
+   <record  title='SP_MDT_v3.1708' />
+   <record  title='SP_MDT_v3.1652' />
+   <record  title='SP_MDT_v3.1648' />
+   <record  title='SP_MDT_v3.1644' />
+   <record  title='SP_MDT_v3.1636' />
+   <record  title='SP_MDT_v3.1632' />
+   <record  title='SP_MDT_v3.1624' />
+   <record  title='SP_MDT_v3.1620' />
+   <record  title='SP_MDT_v3.1616' />
+   <record  title='SP_MDT_v3.1604' />
+   <record  title='SP_MDT_v3.1552' />
+   <record  title='SP_MDT_v3.1548' />
+   <record  title='SP_MDT_v3.1544' />
+   <record  title='SP_MDT_v3.1540' />
+   <record  title='SP_MDT_v3.1532' />
+   <record  title='SP_MDT_v3.1516' />
+   <record  title='SP_MDT_v3.1528' />
+   <record  title='SP_MDT_v3.1520' />
+   <record  title='SP_MDT_v3.1512' />
+   <record  title='SP_MDT_v3.1504' />
+   <record  title='SP_MDT_v3.1452' />
+   <record  title='SP_MDT_v3.1444' />
+   <record  title='SP_MDT_v3.1436' />
+   <record  title='SP_MDT_v3.1428' />
+   <record  title='SP_MDT_v3.1424' />
+   <record  title='SP_MDT_v3.1420' />
+   <record  title='SP_MDT_v3.1408' />
+   <record  title='SP_MDT_v3.1332' />
+   <record  title='SP_MDT_v3.1304' />
+   <record  title='SP_MDT_v3.1228' />
+   <record  title='SP_MDT_v3.1108' />
+   <record  title='SP_MDT_v3.1032' />
+   </Tools>  
+   <Tools  title='BirdA_MDT_Tool'>
+   <record  title='BirdA_MDT_v1620' />
+   <record  title='BirdA_MDT_v1524' />
+   <record  title='BirdA_MDT_v1512' />
+   <record  title='BirdA_MDT_v1452' />
+   <record  title='BirdA_MDT_v1432' />
+   <record  title='BirdA_MDT_v1428' />
+   <record  title='BirdA_MDT_v1408' />
+   <record  title='BirdA_MDT_v1348' />
+   <record  title='BirdA_MDT_v1336' />
+   <record  title='BirdA_MDT_v1316' />
+   </Tools>  
+   <Tools  title='BirdA_FlashTool'>
+  <record  title='BirdA_FlashTool_v1620' />
+  <record  title='BirdA_FlashTool_v1524' />
+  <record  title='BirdA_FlashTool_v1512' />
+  <record  title='BirdA_FlashTool_v1452' />
+  <record  title='BirdA_FlashTool_v1432' />
+  <record  title='BirdA_FlashTool_v1428' />
+  <record  title='BirdA_FlashTool_v1408' />
+  <record  title='BirdA_FlashTool_v1348' />
+  <record  title='BirdA_FlashTool_v1336' />
+  <record  title='BirdA_FlashTool_v1316' />
+  </Tools> 
+   <Tools  title='Agenew_FlashTool'>
+  <record  title='Agenew_FlashTool_v1912' />
+  <record  title='Agenew_FlashTool_v1848' />
+  <record  title='Agenew_FlashTool_v1804' />
+  <record  title='Agenew_FlashTool_v1728' />
+  <record  title='Agenew_FlashTool_v1620' />
+  </Tools> 
+   <Tools  title='Tecno_FlashTool'>
+  <record  title='Tecno_Flash_Tool_v4.1901.23.17' />
+  <record  title='Tecno_Flash_Tool_v4.1811.23.11' />
+  <record  title='Tecno_Flash_Tool_v4.1808.28.17' />
+  <record  title='Tecno_Flash_Tool_v4.1806.11.11' />
+  <record  title='Tecno_Flash_Tool_v4.1801.03.10' />
+  <record  title='Tecno_Flash_Tool_v1.5.1_20190627' />
+ </Tools> 
+	
+  </Tools>
+  <Tools  title='SpreadTrum (FlashTools)'>
+    <Tools  title='SPD_Research_Tool'>
+   <record  title='SPD_Research_Tool_R24.0.0003' />
+   <record  title='SPD_Research_Tool_R23.19.5101' />
+   <record  title='SPD_Research_Tool_R23.19.3301' />
+   <record  title='SPD_Research_Tool_R23.0.0001' />
+   <record  title='SPD_Research_Tool_R22.19.1301' />
+   <record  title='SPD_Research_Tool_R21.0.0001' />
+   <record  title='SPD_Research_Tool_R19.0.0001' />
+   <record  title='SPD_Research_Tool_R17.0.0001' />
+   <record  title='SPD_Research_Tool_R8.0.0001' />
+   <record  title='SPD_Research_Tool_R7.0.0001' />
+   <record  title='SPD_Research_Tool_R6.0.0001' />
+   <record  title='SPD_Research_Tool_R4.0.0001' />
+   <record  title='SPD_Research_Tool_R3.15.4901' />
+   <record  title='SPD_Research_Tool_R3.0.900' />
+   <record  title='SPD_Research_Tool_R3.0.0001' />
+   <record  title='SPD_Research_Tool_R2.10.1003' />
+   <record  title='SPD_Research_Tool_R2.10.1001' />
+   <record  title='SPD_Research_Tool_R2.9.9017' />
+   <record  title='SPD_Research_Tool_R2.9.9016' />
+   <record  title='SPD_Research_Tool_R2.9.9015' />
+   <record  title='SPD_Research_Tool_R2.9.9009' />
+   <record  title='SPD_Research_Tool_R2.9.9008' />
+   <record  title='SPD_Research_Tool_R2.9.9005' />
+   <record  title='SPD_Research_Tool_R2.9.9001' />
+   <record  title='SPD_Research_Tool_R2.9.8005' />
+   <record  title='SPD_Research_Tool_R2.9.8004' />
+   <record  title='SPD_Research_Tool_R2.9.7017' />
+   <record  title='SPD_Research_Tool_R2.9.7009' />
+   <record  title='SPD_Research_Tool_R2.9.7008' />
+   <record  title='SPD_Research_Tool_R2.9.7007' />
+   <record  title='SPD_Research_Tool_R2.9.7006' />
+   <record  title='SPD_Research_Tool_R2.9.7003' />
+   <record  title='SPD_Research_Tool_R2.9.7002' />
+   <record  title='SPD_Research_Tool_R2.9.7001' />
+   <record  title='SPD_Research_Tool_R2.9.6011' />
+	</Tools>  
+	<Tools  title='SPD_Upgrade_Tool'>
+   <record  title='SPD_Upgrade_Tool_R25.20.3901' />
+   <record  title='SPD_Upgrade_Tool_R24.0.0003' />
+   <record  title='SPD_Upgrade_Tool_R23.19.4001' />
+   <record  title='SPD_Upgrade_Tool_R23.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R22.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R21.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R20.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R19.18.0001' />
+   <record  title='SPD_Upgrade_Tool_R19.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R17.17.1202' />
+   <record  title='SPD_Upgrade_Tool_R17.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R4.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R3.15.4901' />
+   <record  title='SPD_Upgrade_Tool_R3.0.0001' />
+   <record  title='SPD_Upgrade_Tool_R2.10.1003' />
+   <record  title='SPD_Upgrade_Tool_R2.9.9015' />
+   <record  title='SPD_Upgrade_Tool_R2.9.9009' />
+   <record  title='SPD_Upgrade_Tool_R2.9.9008' />
+   <record  title='SPD_Upgrade_Tool_R2.9.9005' />
+   <record  title='SPD_Upgrade_Tool_R2.9.9001' />
+   <record  title='SPD_Upgrade_Tool_R2.9.7008' />
+   <record  title='SPD_Upgrade_Tool_R2.9.7007' />
+   <record  title='SPD_Upgrade_Tool_R2.9.7006' />
+   <record  title='SPD_Upgrade_Tool_R2.9.7003' />
+   <record  title='SPD_Upgrade_Tool_R2.9.7001' />
+   <record  title='SPD_Upgrade_Tool_R2.9.6004' />
+   <record  title='SPD_Upgrade_Tool_R2.9.5005' />
+   </Tools> 
+	<Tools  title='SPD_Factory_Tool'>
+   <record  title='SPD_Factory_Tool_R24.0.0003' />
+   <record  title='SPD_Factory_Tool_R23.19.4001' />
+   <record  title='SPD_Factory_Tool_R23.0.0001' />
+   <record  title='SPD_Factory_Tool_R21.0.0001' />
+   <record  title='SPD_Factory_Tool_R19.17.4301' />
+   <record  title='SPD_Factory_Tool_R3.0.0001' />
+   <record  title='SPD_Factory_Tool_R2.9.9015' />
+   <record  title='SPD_Factory_Tool_R2.9.9009' />
+   <record  title='SPD_Factory_Tool_R2.9.9008' />
+   <record  title='SPD_Factory_Tool_R2.9.9001' />
+   <record  title='SPD_Factory_Tool_R2.9.7007' />
+   <record  title='SPD_Factory_Tool_R2.9.7006' />
+   <record  title='SPD_Factory_Tool_R2.9.7003' />
+	</Tools>  
+	<Tools  title='SPD_Dloader_Tool'>
+    <record  title='SPD_Dloader_v2.9.3' />
+    <record  title='SPD_Dloader_v2.9.2' />
+	</Tools> 
+	<Tools  title='SPUpgrade_Tool'>
+    <record  title='SPUpgrade_v2.9.3' />
+    <record  title='SPUpgrade_v2.9.2' />
+	</Tools>  
+	</Tools> 
+  <Tools  title='Qualcomm (FlashTools)'>
+  <Tools  title='Lenovo Downloader'>
+  <record  title='Lenovo_Downloader_v1.0.3' />
+  <record  title='Lenovo_Downloader_v1.0.2' />
+ </Tools>  
+  <Tools  title='QcomDloader'>
+  <record  title='QcomDloader_v1.3.2.0' />
+  <record  title='QcomDloader_v1.3.0.2' />
+  <record  title='QcomDloader_v1.0.6' />
+  <record  title='QcomDloader_v1.0.3' />
+  <record  title='QcomDloader_v1.0.2' />
+  </Tools> 
+  <Tools  title='QualFast_Tool'>
+  <record  title='Qualfast_v1.0.2' />
+  <record  title='Qualfast_v1.0.1' />
+  </Tools> 
+  <Tools  title='QFlash_Tool'>
+  <record  title='QFlash_Tool_v9.1.6' />
+  <record  title='QFlash_Tool_v6.1.3' />
+  <record  title='QFlash_Tool_v5.0.2' />
+  </Tools> 
+  <Tools  title='QFIL_Tool'>
+  <record  title='QFIL_Tool_v2.0.3.5' />
+  <record  title='QFIL_Tool_v2.0.3.4' />
+  <record  title='QFIL_Tool_v2.0.2.3' />
+  <record  title='QFIL_Tool_v2.0.1.9' />
+  <record  title='QFIL_Tool_v2.0.1.8' />
+  <record  title='QFIL_Tool_v2.0.1.7' />
+  <record  title='QFIL_Tool_v2.0.1.1' />
+  <record  title='QFIL_Tool_v2.0.0.5' />
+  <record  title='QFIL_Tool_v2.0.0.4' />
+  <record  title='QFIL_Tool_v2.0.0.3' />
+  <record  title='QFIL_Tool_v2.0.0.2' />
+  <record  title='QFIL_Tool_v2.0.0.0' />
+  <record  title='QFIL_Tool_v1.0.0.3' />
+  <record  title='QFIL_Tool_v2.0.0.2' />
+  </Tools> 
+  <Tools  title='MiFlash_Tool'>
+  <record  title='MiFlash20200314' />
+  <record  title='MiFlash20191206' />
+  <record  title='MiFlash20191111' />
+  <record  title='MiFlash20191030' />
+  <record  title='MiFlash20181115' />
+  <record  title='MiFlash20180528' />
+  <record  title='MiFlash20171212' />
+  <record  title='MiFlash20170425' />
+  <record  title='MiFlash20161222' />
+  <record  title='MiFlash20160830' />
+  <record  title='MiFlash20160401' />
+  <record  title='MiFlash20151028' />
+  <record  title='MiFlash20150731' />
+  <record  title='MiFlash20150601' />
+  <record  title='MiFlash20141107' />
+  <record  title='MiFlash20140509' />
+  <record  title='MiFlash20130420' />
+  </Tools>   
+  <Tools  title='QPST_Tool'>
+  <record  title='QPST_v2.7.480' />
+  <record  title='QPST_v2.7.495' />
+  <record  title='QPST_v2.7.496' />
+  </Tools> 
+  </Tools>  
+  
+  </Tools>
+	
+
+  <Tools  title='USB Drivers  '>
+  <Tools  title='Android ADB USB Drivers'>
+    <record  title='Android-ADB_Auto_installer' />
+    <record  title='Android-ADB-Fastboot_Auto_installer' />
+	</Tools>  
+   <Tools  title='Samsung USB Drivers'>
+  <record  title='Samsung_USB_Driver_v1.7.43' />
+  <record  title='Samsung_USB_Driver_v1.7.31' />
+  <record  title='Samsung_USB_Driver_v1.7.28' />
+  <record  title='Samsung_USB_Driver_v1.7.23' />
+  <record  title='Samsung_USB_Driver_v1.7.17' />
+  <record  title='Samsung_USB_Driver_v1.7.11' />
+  <record  title='Samsung_USB_Driver_v1.5.65' />
+  <record  title='Samsung_USB_Driver_v1.5.63' />
+  <record  title='Samsung_USB_Driver_v1.5.61' />
+  <record  title='Samsung_USB_Driver_v1.5.60' />
+  <record  title='Samsung_USB_Driver_v1.5.59' />
+  <record  title='Samsung_USB_Driver_v1.5.55' />
+  <record  title='Samsung_USB_Driver_v1.5.51' />
+  <record  title='Samsung_USB_Driver_v1.5.49' />
+  <record  title='Samsung_USB_Driver_v1.5.45' />
+  <record  title='Samsung_USB_Driver_v1.5.33' />
+	</Tools>  
+	<Tools  title='MediaTek USB Drivers'>
+    <record  title='MTK_USB_FP_Driver_Auto_installer' />
+    <record  title='MTK_USB_SP_Driver_Auto_installer' />
+    <record  title='MTK_USB_VCOM_Driver_Auto_installer' />
+    <record  title='MTK_USB_Serial_Port_Driver_Auto_installer' />
+    <record  title='MTK_USB_AndroidCDC_Driver_Auto_installer' />
+	</Tools>  
+	<Tools  title='SpreadTrum USB Drivers'>
+    <record  title='SPD_OLD_Drivers_Auto_installer' />
+	</Tools> 
+	<Tools  title='Qualcomm USB Drivers'>
+    <record  title='Qualcomm_Diag_Drivers_Auto_installer' />
+    <record  title='Qualcomm_New_Drivers_Auto_installer' />
+	</Tools>  
+	<Tools  title='Huawei USB Drivers'>
+    <record  title='Huawei_Android_Phone_Drivers' />
+    <record  title='Huawei_USB_COM0_TP_Drivers' />
+    <record  title='Huawei_USB_P20_Honor10_Mate10_Drivers' />
+	</Tools> 
+    <Tools  title='Motorola USB Drivers'>
+    <record  title='USB Drivers' />
+	</Tools> 
+	<Tools  title='HTC USB Drivers'>
+    <record  title='HTC_Mobile_Driver_2017' />
+    <record  title='HTC_U12_setup' />
+	</Tools> 
+  </Tools> 
+
+
+<Tools  title='FRP ByPass APK  ' >
+<Tools  title='FRP_Bypass_All-in-one' >
+  <record  title='SamFirm_FRP_All-in-one.apk' />
+  <record  title='Bypass_FRP_All-in-one.apk' />  
+  <record  title='Bypass_FRP_MultiTool.apk' />
+  <record  title='Melokelsoft.apk' />
+	</Tools>
+<Tools  title='FRP_Bypass_Android(5,6,7,8,9,10)' >
+<Tools  title='FRP_Bypass_Android(5,6,8,9,10)' >
+  <record  title='FRP_Bypass_OpenLoginGAM.apk' />    
+  <record  title='Google_Account_Manager_v5.0.apk' />
+  <record  title='Google_Account_Manager_v6.0.apk' />
+  <record  title='Google_Account_Manager_v6.0.1.apk' />
+  <record  title='Google_Account_Manager_v7.0.apk' />
+  <record  title='Google_Account_Manager_v7.1.apk' />
+  <record  title='Google_Account_Manager_v7.1.2.apk' />
+  <record  title='Google_Account_Manager_v8_v9_v10.apk' />
+  </Tools>
+<Tools  title='FRP_Bypass_Android(7)' >
+  <record  title='Google_Play_Service_v7.0.apk' />
+  <record  title='TechnoCare.apk' />
+  </Tools>
+	</Tools>
+<Tools  title='FRP_Bypass_Other_Apk' >
+  <record  title='Open_Settings.apk' />
+  <record  title='Menu_Button.apk' />
+  <record  title='HushSms.apk' />
+  <record  title='Test_DPC_Moto.apk' />
+  <record  title='Quickshortcutmaker.apk' />
+  <record  title='Phone_Clone_Huawei.apk' />
+  <record  title='DualSpace_Huawei.apk' />
+  </Tools>
+<Tools  title='Andoid_Launcher' >
+  <record  title='Launcher_Apex.apk' />
+  <record  title='Launcher_GO_EX.apk' />
+  <record  title='Launcher_Nova.apk' />
+  <record  title='Launcher_Easy_Settings_2018.apk' />
+  </Tools>
+  <Tools  title='Andoid_FileManger' >
+  <record  title='ES_File_Explorer.apk' />
+  <record  title='File_Commander_Manager.apk' />
+  </Tools>
+   </Tools>
+	
+
+
+	
+</root>
+
+
+
+
+
+
+
